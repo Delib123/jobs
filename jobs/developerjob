@@ -1,0 +1,38 @@
+Python Developer
+
+Hello, we’re looking for an experienced Python developer to join us in Bristol, UK. We’re a small company but we build software that makes a difference worldwide. Delib’s products are used to connect citizens with government; our flagship product, Citizen Space, is used by over 80 government organisations around the world. Have a look at our Citizen Space Aggregator to see thousands of issues on which our customers are currently consulting the public.
+
+We think we have a decent environment in which to write software. We have a big airy studio in a listed building in the city centre, and we’re a small enough company that everyone knows everyone else.  Of course it’s not perfect; there are never enough hours in the day, but we care, we say thanks, and we go out for lunches and drink together after work and I reckon that counts for a lot.
+
+Typically we work well with people who’ve got a Computer Science degree and have been coding since at least their early teens. YMMV.  We prefer people who can communicate with humans as well as computers.
+
+We need to get some web app, support and operations stuff done. All developers do a bit of everything:
+
+*For backend development we work with Python frameworks including Pyramid, Zope and Plone. You don’t need to have used these, but you must have substantial industry experience in Python development, and have worked with web frameworks in the past.
+*For frontend development we generally use XHTML, Less/CSS and JQuery/Javascript. We have to support a wide range of browsers including mobiles and tablets.
+*We have lots of devops things to do, including deployment automation for servers around the world. We use Ansible for this, along with a bunch of our own scripts. Again, you don’t need to have used Ansible, but it would be best if you’re not (too) scared of SSHing into linux servers, grepping logs and tweaking apache configs.
+*All our application code, automation scripts and configuration are version controlled using git, as is most of our test data. We all need to be able to modify, build and run each other’s code, so these days we’re pretty hot on documenting things too.
+*All developers take rotating fortnightly shifts as Developer on Support, which means we help our customers and account managers with technical issues via our online ticketing system, help sales people with quoting and tendering, and are generally available to answer questions without being excessively grumpy. This is actually really important – it means that developers get to see how the stuff we’ve built really affects our customers’ lives, and customers love getting a reply directly from the person who can fix their problem.
+*Unfortunately being on Support does also mean being on call. But calls/texts outside office hours are infrequent and if you do get called you get paid for it. Oh and don’t panic – you don’t get calls directly from customers.
+*These days we’re pretty good at using agile development processes like Scrum and Kanban. We also have grown-up things like continuous integration and Aeron chairs (or sofas to work on if that’s more your style). You’ll get a decent Macbook Pro, or an equivalent Linux laptop if you prefer.
+
+Hours and Salary
+
+Could be a full-time, part-time or freelance scenario (we’re a bit tight about freelance rates though eh?). Currently all Delib’s developers are part-time, with the option for scale-up days each month. We find that this arrangement suits our work/life/childcare/hangover requirements perfectly.
+
+We’re offering £30-40k pro-rata depending on experience.
+
+Contact Details
+
+Sound interesting? Send us a covering letter and your CV to lorna@teamrubber.com.
+
+We don’t place too much faith in CVs, the covering letter is really what we look at. If we like the look of yours we’ll get you in for a standard hiring interview.
+
+We follow the HMG Baseline Personnel Security Standard and you will therefore need to satisfy basic eligibility criteria/certain conditions of employment (e.g. nationality rules/right to work); and provide appropriate documentation to verify ID, nationality, employment and/or academic history, criminal record (unspent convictions only).
+
+No applications will be accepted via recruitment companies.
+
+Cheers,
+
+Andy (Director) and Jess (Developer)
+
